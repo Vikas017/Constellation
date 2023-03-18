@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Constellation</string>
+
+    <string name="nav_to_detail">Navigate to detail screen</string>
+</resources>
